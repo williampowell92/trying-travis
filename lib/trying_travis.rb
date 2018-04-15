@@ -1,3 +1,3 @@
 def test_method
-  1
+  2
 end
